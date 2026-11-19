@@ -12,7 +12,7 @@ Machine Learning and statistical analysis will be explored to identify patterns 
 
 A web-based dashboard will display real-time air quality readings, health records, historical trends and alerts.
 
-## 🎯 Objectives
+## Objectives
 
 - Continuously monitor indoor air quality using IoT sensors.
 - Measure PM2.5, VOC levels and humidity.
@@ -23,7 +23,7 @@ A web-based dashboard will display real-time air quality readings, health record
 - Integrate Gemini AI to generate simple recommendations.
 - Provide a web dashboard for monitoring and tracking.
 
-## ⚙️ Key Features
+##  Key Features
 
 ### 1. Real-Time Air Quality Monitoring
 - Monitor PM2.5, VOC levels and humidity.
@@ -52,7 +52,7 @@ A web-based dashboard will display real-time air quality readings, health record
 - Track daily health assessments.
 - Display alerts and AI-generated recommendations.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -65,7 +65,7 @@ A web-based dashboard will display real-time air quality readings, health record
 | Machine Learning | Pattern identification and risk analysis |
 | Web Technologies | Frontend dashboard |
 
-## ☁️ AWS Services
+## AWS Services
 
 | AWS Service | Purpose |
 |---|---|
@@ -79,7 +79,7 @@ A web-based dashboard will display real-time air quality readings, health record
 | Amazon EventBridge | Schedules and triggers automated tasks |
 | Amazon CloudWatch | Monitors application performance and errors |
 
-## 🔄 System Workflow
+## System Workflow
 
 1. ESP32 collects indoor air quality readings through connected sensors.
 2. Sensor readings are transmitted to AWS IoT Core.
@@ -91,7 +91,7 @@ A web-based dashboard will display real-time air quality readings, health record
 8. Gemini AI generates simple, context-aware recommendations.
 9. The dashboard displays air quality readings, health trends and alerts.
 
-## 🩺 Daily Health Data Collection
+## Daily Health Data Collection
 
 The application will use a predefined daily questionnaire to maintain consistent health records.
 
@@ -107,11 +107,11 @@ Example questions include:
 
 This structured approach helps collect consistent health observations that can be analysed alongside environmental data.
 
-## 📊 Expected Outcome
+## Expected Outcome
 
 A functional cloud-based monitoring platform that combines IoT, AWS Cloud, Machine Learning and Generative AI to help users monitor indoor air quality, track respiratory health and identify potential environmental triggers associated with asthma exacerbations.
 
-## 👩‍💻 Project Team
+## Project Team
 
 | Name | Roll Number |
 |---|---|
@@ -119,18 +119,18 @@ A functional cloud-based monitoring platform that combines IoT, AWS Cloud, Machi
 | Saranya Aluru | 2520080012 |
 | D. Sri Varshini | 2520080013 |
 
-## 👩‍🏫 Project Guide
+## Project Guide
 
 **Dr. D. Divya Priya**  
 Assistant Professor  
 Department of Computer Science and Information Technology (CS & IT)
 
-## 📚 Course Information
+## Course Information
 
 **Course:** Cloud Infrastructure and Services (25CS2206E)
 
 **Academic Year:** 2026–2027
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is intended for educational and monitoring purposes. It does not provide medical diagnoses or replace professional medical advice.
